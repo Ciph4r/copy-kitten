@@ -9,22 +9,17 @@ ul {
     font-size: 40px ;
     word-spacing: 30px;
     
-    
-    
-  
-
-    
 }
 li {
     display: inline;
 
 }
 a {
-color: rgb(166, 181, 197);
+color: rgb(255, 255, 255);
 text-decoration: none;
 
 } 
 li a:hover {
-    color: rgb(8, 43, 18);
+    color: rgb(25, 90, 34);
     
 }
