@@ -1,0 +1,30 @@
+
+
+ul {
+    background-color: rgb(122, 120, 120);
+    list-style:none;
+    padding: 25px;
+    text-align: center;
+    color: lightslategrey;
+    font-size: 40px ;
+    word-spacing: 30px;
+    
+    
+    
+  
+
+    
+}
+li {
+    display: inline;
+
+}
+a {
+color: rgb(166, 181, 197);
+text-decoration: none;
+
+} 
+li a:hover {
+    color: rgb(8, 43, 18);
+    
+}

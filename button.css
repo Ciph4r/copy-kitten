@@ -1,0 +1,14 @@
+a {
+
+  width: 30px; 
+  height: 20px;
+}
+div {
+    color: white;
+    background-color: mediumblue;
+}
+a:hover {
+    box-shadow: yellowgreen;
+    border: yellow;
+    border-style: solid;
+}
