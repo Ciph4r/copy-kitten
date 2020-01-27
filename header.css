@@ -3,7 +3,6 @@
 ul {
     background-color: rgb(122, 120, 120);
     list-style:none;
-    padding: 25px;
     text-align: center;
     color: lightslategrey;
     font-size: 40px ;
@@ -14,7 +13,7 @@ li {
     display: inline;
 
 }
-a {
+li a {
 color: rgb(255, 255, 255);
 text-decoration: none;
 

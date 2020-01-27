@@ -1,21 +1,19 @@
-a {
+#button {
     color: white;
     text-decoration: none;
 }
 
-div {
+#button {
     color: white;
     background-color: rgb(0, 113, 205);
     display: inline;
     padding: 5px 20px;
     border-radius: 4px;
     box-shadow: 0px 3px rgb(24, 89, 143);
-    position: absolute;
-    top: 50%;
-    left: 50%;
+
 }
 
-div:hover {
+#button:hover {
     background-color: rgb(95, 180, 219);
     box-shadow: 0px 0px
 }
