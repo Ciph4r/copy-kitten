@@ -37,3 +37,28 @@
 #row-3 a:hover {
     background-color: deeppink;
 }
+
+/*
+div {
+    padding: 3px 3px;
+   
+  }
+  a {
+      text-decoration: none;
+      border-style: solid;
+      border-width: .1px;
+      
+      
+  }
+  
+  a:first-child {
+  border-left-style: none;
+  }
+  
+  a:nth-child(3) {
+      border-right-style: none;
+  
+  }
+  
+  
+  */
